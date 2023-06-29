@@ -12,7 +12,7 @@
 - 🐍 I’m currently learning Python 3
 - 👯 I’m sociable and smiley
 - 😏 I do sport and love IT
-- 📫 How to reach me: ...
+- 📫 How to reach me: [![Telegram Badge](https://img.shields.io/badge/-popovamars-blue?style=flat&logo=Telegram&logoColor=white)](https://t.me/popovamars) [![Gmail Badge](https://img.shields.io/badge/-Mail-red?style=flat&logo=Gmail&logoColor=white)](mailto:popovamars@mail.ru)
 - 😨 Unusual fact: I have black belt of Taekwondo ITF
 
 ### My resume
