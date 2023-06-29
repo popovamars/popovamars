@@ -1,7 +1,11 @@
  Hi, my name is Mary and i would like to connect my lifee with QA❤
+ 
+ I think that QA is the most exiting sphere in IT, because you must have skills in design, develove, usability and other...
+ 
+ Bellow you can see my different skils and  project's experiences.🔽
 
-<!--
-**popovamars/popovamars** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+ Welcome😎
+
 
 Here are some ideas to get you started:
 
