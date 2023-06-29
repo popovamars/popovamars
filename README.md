@@ -1,14 +1,13 @@
- Hi, my name is Mary and i would like to connect my lifee with QA❤
+ ###  Hi, my name is Mary 
+ #### I would like to connect my life with QA❤
  
- I think that QA is the most exiting sphere in IT, because you must have skills in design, develove, usability and other...
+ I think that QA is the most exiting sphere in IT, because you must have skills in design, develope, usability and other interesting areas.☘
  
- Bellow you can see my different skils and  project's experiences.🔽
+ Bellow you can see my different skills and  project's experiences.🔽
 
  Welcome😎
 
-
-Here are some ideas to get you started:
-
+### Some facts about me
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
