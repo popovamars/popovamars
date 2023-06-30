@@ -19,8 +19,7 @@
 
 
 
-### My resume
-<a href="https://docs.google.com/document/d/1ffARNFtT4K6jgKYGEQznggnJpvzy-OYOFgr0bRqazbc/edit?usp=sharing">click here</a>
+### My resume <a href="https://docs.google.com/document/d/1ffARNFtT4K6jgKYGEQznggnJpvzy-OYOFgr0bRqazbc/edit?usp=sharing">click here</a>
 
 
 ## ✨ Technology:
