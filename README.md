@@ -48,3 +48,10 @@
 </div>
 
 ## Test Artifacts:
+<ul>
+	<li><a href="https://github.com/popovamars/Check-lists#readme">Check-list</a></li>
+	<li><a href="https://github.com/popovamars/Test-cases/blob/main/README.md">Test-cases</a></li>
+	<li><a href="https://github.com/popovamars/Bug-Reports/blob/main/README.md">Bug-reports</a></li>
+	<li><a href="https://github.com/popovamars/Black-Box-Testing/blob/main/README.md">Black Box Testings</a></li>
+	<li><a href="https://github.com/popovamars/SQL-queries/blob/main/README.md">SQL-queries</a></li>
+</ul>
