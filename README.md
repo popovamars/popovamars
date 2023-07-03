@@ -6,9 +6,14 @@
  Bellow you can see my different skills and  project's experiences.🔽
 
  Welcome😎
+ 
+
 
 ## Some facts about me
-<img width="" src="https://media.tenor.com/fxRhLnRJ3JcAAAAC/打架-拳击.gif" height="200" align="right" alt="box"/>
+
+<div>
+<img width="" src="https://media.tenor.com/fxRhLnRJ3JcAAAAC/打架-拳击.gif" height="200"  alt="box"/>
+</div><n></n>
 
 - ✨I'm glad to work in any project
 - 🐍 I’m currently learning Python 3
@@ -19,7 +24,7 @@
 
 
 
-### My resume <a href="https://docs.google.com/document/d/1ffARNFtT4K6jgKYGEQznggnJpvzy-OYOFgr0bRqazbc/edit?usp=sharing">click here</a>
+### 🙋‍♀️ My resume <a href="https://docs.google.com/document/d/1ffARNFtT4K6jgKYGEQznggnJpvzy-OYOFgr0bRqazbc/edit?usp=sharing">click here</a>
 
 
 ## ✨ Technology:
